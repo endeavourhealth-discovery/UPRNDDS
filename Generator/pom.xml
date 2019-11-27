@@ -68,7 +68,7 @@
         <dependency>
             <groupId>org.endeavourhealth.configmanager</groupId>
             <artifactId>configmanager</artifactId>
-            <version>1.26-SNAPSHOT</version>
+            <!-- <version>1.26-SNAPSHOT</version> -->
         </dependency>
         <dependency>
             <groupId>sample</groupId>
